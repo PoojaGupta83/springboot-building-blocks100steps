@@ -1,4 +1,4 @@
-package com._steps.learn_practical_implementation;
+package com.steps.learn_practical_implementation;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
